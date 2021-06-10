@@ -1,0 +1,8 @@
+# SAMPLE ENV FILE
+
+LOCALHOST_URL="http://localhost/"
+GITHUB_URL="https://github.com/username"
+BITBUCKET_URL="https://bitbucket.com/username"
+
+VALET_CONFIG="/Users/username/.config/valet/Sites"
+
